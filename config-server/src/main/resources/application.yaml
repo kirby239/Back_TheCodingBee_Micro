@@ -5,8 +5,8 @@ spring:
         config:
             server:
                 git:
-                    default-label: desarollo
-                    uri: urldelgit
+                    default-label: kirby
+                    uri: https://github.com/kirby239/Back_TheCodingBee_Micro.git
                     search-paths: config-data
     application:
         name: config-server
